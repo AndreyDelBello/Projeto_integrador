@@ -2,8 +2,8 @@
 Projeto integrador do 4º semestre - Redes e Infra
 
 Integrantes da Equipe: 
-1 - Andrey Del Bello
-2 - Éric Ruan
-3 - Gabriela Pellin
-4 - Matheus Araújo
-5 - Jonathan J. Jesus
+- Andrey Del Bello
+- Éric Ruan
+- Gabriela Pellin
+- Matheus Araújo
+- Jonathan J. Jesus
